@@ -1,4 +1,4 @@
-package no_1;
+package chapter_02;
 
 import java.io.IOException;
 

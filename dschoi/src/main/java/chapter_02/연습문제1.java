@@ -1,11 +1,6 @@
-package no_1;
+package chapter_02;
 
-import com.sun.javafx.binding.StringFormatter;
-
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.SyncFailedException;
 import java.util.Scanner;
 
 /**
